@@ -1,0 +1,26 @@
+{
+  "description": "My Collection NFT : The Power"
+  "external_url": "", 
+  "image": "ipfs://bafybeietcyqih2avrpv4oqwn24kit6nwtmuj6cuqhzp73l6a2cjqdfldte/1.jpg", 
+  "name": "Pillar Of Power",
+"attributes": [
+    {
+      "trait_type": "Base", 
+      "value": "POP"
+    }, 
+    {
+      "trait_type": "background", 
+      "value": "Street_gray"
+    }, 
+    {
+      "trait_type": "Mouth", 
+      "value": "Surprised"
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 1
+    }
+  ]
+
+}

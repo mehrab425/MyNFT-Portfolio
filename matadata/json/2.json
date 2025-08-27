@@ -1,0 +1,26 @@
+{
+  "description": "My Collection NFT : "Red Heart,Black Wings."
+  "external_url": "", 
+  "image": "ipfs://bafybeietcyqih2avrpv4oqwn24kit6nwtmuj6cuqhzp73l6a2cjqdfldte/2.jpg", 
+  "name": "Pillar Of Power",
+"attributes": [
+    {
+      "trait_type": "Base", 
+      "value": "RHBW"
+    }, 
+    {
+      "trait_type": "background", 
+      "value": "OLD_White"
+    }, 
+    {
+      "trait_type": "Mouth", 
+      "value": ""
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 2
+    }
+  ]
+
+}

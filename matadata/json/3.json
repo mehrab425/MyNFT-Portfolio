@@ -1,0 +1,26 @@
+{
+  "description": "My Collection NFT :DEVILS"
+  "external_url": "", 
+  "image": "ipfs://bafybeietcyqih2avrpv4oqwn24kit6nwtmuj6cuqhzp73l6a2cjqdfldte/3.jpg", 
+  "name": "Dance With Devil",
+"attributes": [
+    {
+      "trait_type": "Base", 
+      "value": "DWE"
+    }, 
+    {
+      "trait_type": "background", 
+      "value": "art"
+    }, 
+    {
+      "trait_type": "Mouth", 
+      "value": ""
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 3
+    }
+  ]
+
+}
