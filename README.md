@@ -8,7 +8,7 @@ A minimal ERC721 NFT collection powered by **Solidity 0.8.30**, **OpenZeppelin E
 
 ## 🔗 Deployment
 - **Network:** Ethereum Holesky Testnet (chainId: 17000)
-- **Contract Address:** `0xYOUR_CONTRACT_ADDRESS`
+- **Contract Address:** `0xD1Da52CC507ce6187164a847eF3e1Cd73Dd4Dbd1`
 - **Explorer:** https://holesky.etherscan.io/address/0xD1Da52CC507ce6187164a847eF3e1Cd73Dd4Dbd1
 
 ## ✨ Features
@@ -44,5 +44,6 @@ Example URI pattern used in contract: `ipfs://YOUR_CID/{id}.json`
 
 ## © License
 MIT
+
 
 
